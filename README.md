@@ -77,7 +77,7 @@ npm run test:browser
 
 `BASE_URL` can select another local port. The suite checks direct routes, correct opportunity contents, all internal link destinations, navigation through the core journey, persistent dashboard layout, matching counts, loaded Google Font, keyboard activation, and 360px layout. It regenerates screenshots and a JSON result in docs/evidence/.
 
-See [actual testing record](docs/TESTING.md) and [submission draft](docs/SUBMISSION.md). No student-authored reflections, public upload, or submission email are claimed.
+See [actual testing record](docs/TESTING.md) and [submission draft](docs/SUBMISSION.md). Student-authored reflections remain to be supplied. Public upload and submission email have now been completed; see the publication update and submission record.
 
 ## Git and submission status
 
@@ -95,3 +95,5 @@ Next.js 16.4.3, React 19.3.0, TypeScript, plain CSS, and local sample data. No r
 ## Publication update — 25 October 2026
 
 Author: **Ghady Nazha**. Public repository: [GHady98/yehia-career-path](https://github.com/GHady98/yehia-career-path). Assignment branch: [assignment-1-routing](https://github.com/GHady98/yehia-career-path/tree/assignment-1-routing). Existing milestone history is preserved. Publication is complete; see docs/SUBMISSION.md for the email record and remaining coursework limitations.
+
+Submission email sent on 25 October 2026 to khaled@techtalkslb.com and confirmed in Gmail Sent. The message discloses the remaining coursework limitations; publication and sending do not establish instructor acceptance.
