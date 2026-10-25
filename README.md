@@ -83,11 +83,15 @@ See [actual testing record](docs/TESTING.md) and [submission draft](docs/SUBMISS
 
 Branch: `assignment-1-routing`. Starter commit: `2d379f0`, created before assignment pages. Starter was opened successfully before implementation, with a screenshot saved in docs/evidence/starter.png. The branch was created before assignment features.
 
-A public repository was not established before coding: the available GitHub connector did not expose repository creation, and the chosen account differed from the connected account. The user selected GHady98. A subsequent browser publication attempt stopped because the computer-use runtime could not verify Chrome's current URL. No GitHub repository or remote was created, and nothing was pushed. Do not equate the local commit with a submission.
+Publication history: a public repository was not established before coding: the available GitHub connector did not expose repository creation, and the chosen account differed from the connected account. The user selected GHady98. A subsequent browser publication attempt stopped because the computer-use runtime could not verify Chrome's current URL. That earlier attempt made no remote changes. A later authorized run successfully created the public repository and pushed the assignment branch.
 
-Remaining: supply the full name, review the explanations, publish a public repository under GHady98, push the existing branch, verify signed-out access, and send the submission email. No deployment is required.
+Ghady Nazha supplied the full name and authorized publication and email submission. The explanatory notes remain labelled AI-assisted; personal review is still the student’s responsibility.
 
 ## Version and scope
 
 Next.js 16.4.3, React 19.3.0, TypeScript, plain CSS, and local sample data. No real jobs or submitted applications are represented. Generated dependencies/build output and environment files are ignored by Git.
 
+
+## Publication update — 25 October 2026
+
+Author: **Ghady Nazha**. Public repository: [GHady98/yehia-career-path](https://github.com/GHady98/yehia-career-path). Assignment branch: [assignment-1-routing](https://github.com/GHady98/yehia-career-path/tree/assignment-1-routing). Existing milestone history is preserved. Publication is complete; see docs/SUBMISSION.md for the email record and remaining coursework limitations.

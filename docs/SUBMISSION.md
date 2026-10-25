@@ -1,25 +1,19 @@
-# Submission draft
+# Submission record
 
-To: khaled@techtalkslb.com
+Author: Ghady Nazha
+
+Recipient: khaled@techtalkslb.com
+
 Subject: Assignment 1 – Routing System – Ghady Nazha
 
-Hello Khaled,
+Public repository: https://github.com/GHady98/yehia-career-path
 
-I have completed Assignment 1: Yehia’s Career Path.
+Branch: https://github.com/GHady98/yehia-career-path/tree/assignment-1-routing
 
-Full name: Ghady Nazha
-GitHub repository: [Pending public repository under GHady98]
-Branch: assignment-1-routing
+Status: Public repository created and assignment branch pushed on 25 October 2026. Email is prepared and authorized; delivery has not yet been confirmed. See submission-email.txt for the exact prepared text.
 
-Thank you!
+## Disclosed limitations
 
-## Before sending
+The working application, routing tests, screenshots, and README explanations are included. The explanation notes are transparently labelled AI-assisted for my review.
 
-- Supply your full name and review the README explanations in your own words.
-- Create a public GitHub repository named yehia-career-path (or another available name) under GHady98.
-- Add its URL as origin and push the existing assignment-1-routing branch.
-- Verify the final pages and README are visible on that branch in a signed-out/private browser window.
-- Replace the placeholders above, then send the email yourself or explicitly instruct the agent to send the completed draft.
-
-Publication did not succeed in this session. The GitHub connector had no create-repository tool; the browser automation runtime stopped before publication because it could not confidently verify Chrome's current URL. No remote, push, repository visibility change, or email submission is claimed. Local commits do not upload the work.
-
+Email send status will be updated only after a visible sent confirmation.

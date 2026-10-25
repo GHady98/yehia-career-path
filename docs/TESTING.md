@@ -8,7 +8,7 @@ Date: 25 October 2026. Environment: Next.js 16.4.3 / React 19.3.0, headless Micr
 - Created initial starter commit `2d379f0` before assignment pages.
 - Switched to `assignment-1-routing` before feature work.
 - Ran the starter with `npm run dev -- --hostname 127.0.0.1 --port 3005`; browser opened and found its Next.js starter heading. Evidence: `evidence/starter.png`.
-- Public GitHub publication remains incomplete. See README.md for the actual connector/account/browser limitation. This setup requirement was not silently marked complete.
+- At the initial verification checkpoint, public GitHub publication was incomplete. See README.md for the actual connector/account/browser limitation. This setup requirement was not silently marked complete.
 
 ## Commands
 
@@ -39,7 +39,7 @@ During staged file creation the development server briefly reported the styleshe
 | Keyboard             | Focus visible; navigation activated with Enter.                                     | Skip link had solid focus outline; Tab reached Plan and Enter navigated correctly.                                  | PASS                    |
 | Component boundaries | No needless client state.                                                           | All authored pages/layouts remain Server Components; navigation uses Next Link.                                     | PASS, source inspection |
 | Git branch           | Final code on assignment branch.                                                    | Local branch is assignment-1-routing.                                                                               | PASS locally            |
-| Public submission    | Published and accessible on GitHub.                                                 | No repository/remote created or push performed.                                                                     | INCOMPLETE              |
+| Public submission | Published and accessible on GitHub. | Repository created and assignment branch pushed in a later authorized run; public access verified without credentials. | PASS |
 
 The test visits each valid route directly and checks the core journey through links. It also requests every internal link destination discovered on the six page types. Desktop and mobile evidence is saved for each page type, including the dynamic detail page and unknown-ID handling. These checks do not constitute a full accessibility audit or cross-browser certification.
 

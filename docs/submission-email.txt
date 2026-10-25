@@ -1,0 +1,14 @@
+Hello Khaled,
+
+I am submitting Assignment 1: Yehia’s Career Path.
+
+Full name: Ghady Nazha
+Public repository: https://github.com/GHady98/yehia-career-path
+Branch: assignment-1-routing
+Branch URL: https://github.com/GHady98/yehia-career-path/tree/assignment-1-routing
+
+Known limitations:
+The working application, routing tests, screenshots, and README explanations are included. The explanation notes are transparently labelled AI-assisted for my review.
+
+Thank you,
+Ghady Nazha
