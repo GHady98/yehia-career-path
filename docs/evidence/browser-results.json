@@ -1,0 +1,23 @@
+{
+  "status": "PASS",
+  "directRoutes": [
+    "/",
+    "/plan",
+    "/opportunities",
+    "/opportunities/1",
+    "/opportunities/2",
+    "/opportunities/3",
+    "/dashboard",
+    "/dashboard/applications"
+  ],
+  "unknownOpportunityStatus": 404,
+  "applicationTotal": 2,
+  "nestedLayoutPersists": true,
+  "font": {
+    "family": "Manrope, \"Manrope Fallback\"",
+    "loaded": true
+  },
+  "mobileWidth": 360,
+  "pageErrors": [],
+  "checks": "Direct routes; opportunity links/content; all internal destinations; home CTAs; three milestones; dashboard navigation persistence; matching sample total; Google Font; keyboard focus and Enter; 360px overflow."
+}
