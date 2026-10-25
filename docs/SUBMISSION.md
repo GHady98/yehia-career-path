@@ -1,13 +1,13 @@
 # Submission draft
 
 To: khaled@techtalkslb.com
-Subject: Assignment 1 – Routing System – [Your Full Name]
+Subject: Assignment 1 – Routing System – Ghady Nazha
 
 Hello Khaled,
 
 I have completed Assignment 1: Yehia’s Career Path.
 
-Full name: [Pending; user identifier: GHady98]
+Full name: Ghady Nazha
 GitHub repository: [Pending public repository under GHady98]
 Branch: assignment-1-routing
 
@@ -22,3 +22,4 @@ Thank you!
 - Replace the placeholders above, then send the email yourself or explicitly instruct the agent to send the completed draft.
 
 Publication did not succeed in this session. The GitHub connector had no create-repository tool; the browser automation runtime stopped before publication because it could not confidently verify Chrome's current URL. No remote, push, repository visibility change, or email submission is claimed. Local commits do not upload the work.
+

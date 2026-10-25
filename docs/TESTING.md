@@ -66,3 +66,4 @@ npm run start -- --port 3005
 In another terminal run `npm run test:browser` after installing a Playwright browser. With installed Edge, set `$env:BROWSER_CHANNEL = 'msedge'` in PowerShell first. Set `BASE_URL` to test another local port.
 
 Final refinement: on 360px screens application status badges now occupy their own line, leaving more width for role titles. Lint, production build, and the full browser routing suite passed again after this CSS change. A targeted credential-pattern scan found no matches.
+

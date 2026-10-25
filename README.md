@@ -2,7 +2,7 @@
 
 TECHTALKS · Assignment 1 · Routing System
 
-Author identifier supplied by user: **GHady98**. Add your full name before submission. The chosen publication account is **GHady98**; this project has not yet been published.
+Author: **Ghady Nazha** · GitHub: **GHady98**.
 
 A standalone Next.js 16 App Router website that helps a fictional graduate remember his goal, follow a practical plan, compare sample opportunities, and review fictional applications. The two-month goal is a direction, not a guarantee of employment.
 
@@ -90,3 +90,4 @@ Remaining: supply the full name, review the explanations, publish a public repos
 ## Version and scope
 
 Next.js 16.4.3, React 19.3.0, TypeScript, plain CSS, and local sample data. No real jobs or submitted applications are represented. Generated dependencies/build output and environment files are ignored by Git.
+
