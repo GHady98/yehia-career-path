@@ -97,3 +97,7 @@ Next.js 16.4.3, React 19.3.0, TypeScript, plain CSS, and local sample data. No r
 Author: **Ghady Nazha**. Public repository: [GHady98/yehia-career-path](https://github.com/GHady98/yehia-career-path). Assignment branch: [assignment-1-routing](https://github.com/GHady98/yehia-career-path/tree/assignment-1-routing). Existing milestone history is preserved. Publication is complete; see docs/SUBMISSION.md for the email record and remaining coursework limitations.
 
 Submission email sent on 25 October 2026 to khaled@techtalkslb.com and confirmed in Gmail Sent. The message discloses the remaining coursework limitations; publication and sending do not establish instructor acceptance.
+
+## Instructor follow-up — 31 October 2026
+
+Khaled reviewed the implementation. Personal learning evidence is still required; see [remaining requirements](docs/INSTRUCTOR-FOLLOW-UP.md). This checklist records his feedback and does not claim the student work is complete.
